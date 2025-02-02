@@ -15,7 +15,7 @@ Arduino loeb nupuvajutusi. Iga nupuvajutus lisab LED-i heledusele 25% võimaliku
 Nupuvajutuse peale muutub LED-i eredus aeglaselt ja sujuvalt väljalülitatud olekust maksimumini ja siis tagasi väljalülitatud olekusse. 
 
 ## Kahendloendur
-ARduinoga on ühendatud 4 erinevat LED-i ja nupp. LED-id kuvavad nupuvajutuste arvu kahendkoodis - 1 (põleb) ja 0 (ei põle) vasakult paremale. Lugemine algab nullist (ükski LED ei põle) ja lõpeb 15 juures (kõik neli LEDi põlevad). Näiteks:
+Arduinoga on ühendatud 4 erinevat LED-i ja nupp. LED-id kuvavad nupuvajutuste arvu kahendkoodis - 1 (põleb) ja 0 (ei põle) vasakult paremale. Lugemine algab nullist (ükski LED ei põle) ja lõpeb 15 juures (kõik neli LEDi põlevad). Näiteks:
 
 0 =0000
 
