@@ -14,6 +14,11 @@ Materjali edukalt läbinud õppija oskab:
 *   Arduino arendusplaadiga ühendada nupu ja lugeda nupuvajutust;
 *   Arduino arendusplaadiga ühendada LED-i ja seda juhtida;
 
+## Hindamisjuhend
+Selle õppematerjali puhul ei rakendata eristavat hindamist. 
+
+Õppija on materjali omandanud kui ta on iseseisvalt võimeline lahendama vähemalt neli iseseisvat üleannet viiest. Korrektse lahenduse juurde kuulub seadmete ühendusjoonis ja kommenteeritud programmikood. 
+
 ## Vajalikud vahendid
 
 *   1 x personaalarvuti (sobib nii Windows, Linux kui macOS operatsioonisüsteem)
