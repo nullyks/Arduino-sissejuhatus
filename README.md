@@ -31,7 +31,7 @@ Materjali edukalt läbinud õppija oskab:
 *   [Arduino  UNO arendusplaadi tähtsamad viigud](https://github.com/nullyks/Arduino-sissejuhatus/blob/main/materjalid/3_Arduino_UNO_viigud.md)
 *   [Nupu lugemine](https://github.com/nullyks/Arduino-sissejuhatus/blob/main/materjalid/4_Nupu_lugemine.md)
 *   [LED-i juhtimine](https://github.com/nullyks/Arduino-sissejuhatus/blob/main/materjalid/5_LED_juhtimine.md)
-*   Iseseisvad ülesanded
+*   [Iseseisvad ülesanded](https://github.com/nullyks/Arduino-sissejuhatus/blob/main/materjalid/6_Iseseisvad_ülesanded.md)
 
 ## Õppematerjali koostajad
 
