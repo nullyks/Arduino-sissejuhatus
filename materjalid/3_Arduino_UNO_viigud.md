@@ -54,4 +54,4 @@ Olulisemad viigud on:
 ## Lisamaterjalid
 [Arduino UNO R4 andmeleht](https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf) - R4 on Arduino UNO uusim versioon, millel on mitmeid uuendusi. Märka kasvõi erinevusi digitaalsete viikude kasutamisel toiteallikana.
 
-[Arduino UNO R3 andmeleht](https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf) - R4 on Arduino UNO uusim versioon, kuid väga palju on kasutuses ka R3 versioonile vastavaid arendusplaate. Siis on selle versiooni andmeleht.
+[Arduino UNO R3 andmeleht](https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf) - R4 on Arduino UNO uusim versioon, kuid väga palju on kasutuses ka R3 versioonile vastavaid arendusplaate. Siin on selle versiooni andmeleht.
