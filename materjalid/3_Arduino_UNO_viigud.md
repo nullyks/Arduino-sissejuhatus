@@ -41,7 +41,7 @@ Olulisemad viigud on:
     ~~~
     **NB!** digitaalviigud 0 ja 1 on kasutuses jadapordiühenduse jaoks ja seetõttu on mõistlik nende kasutamist vältida kui võimalik.
 
-* **PWM võimekusega digitaalviigud** 3,5,6,9,10,11 - need viigud võimaldavad juhtida täiturite tööd (LED-i eredus, mootori kiirus jms.) lülitades signaali (meie näites 5V pinge) kiiresti sisse ja välja ning muutes sellega "sisse lülitatud" aja (impulsi laiuse) ja "välja lülitatud" aja suhet. Seda suhet nimetatakse töötsükliks (duty cycle), mida väljendatakse protsentides. Näiteks LED-i puhul tähendab suurem töötsükkel eredamat valgust ja väiksem töötsükkel tuhmimat valgust. PWM võimekusega viigu töötsüklit saame määrata funktsiooniga analogWrite(). Töötsükli väärtus on määratav täisarvuga vahemikus 0 - 255. Näiteks määrame viigule 3 töötsükli 50%:
+* **PWM võimekusega digitaalviigud** 3,5,6,9,10,11 - need viigud võimaldavad juhtida täiturite tööd (LED-i eredus, mootori kiirus jms.) lülitades signaali (meie näites 5V pinge) kiiresti sisse ja välja ning muutes sellega "sisse lülitatud" aja (impulsi pikkuse) ja "välja lülitatud" aja suhet. Seda suhet nimetatakse töötsükliks (duty cycle), mida väljendatakse protsentides. Näiteks LED-i puhul tähendab suurem töötsükkel eredamat valgust ja väiksem töötsükkel tuhmimat valgust. PWM võimekusega viigu töötsüklit saame määrata funktsiooniga analogWrite(). Töötsükli väärtus on määratav täisarvuga vahemikus 0 - 255. Näiteks määrame viigule 3 töötsükli 50%:
     ~~~cpp
     void setup(){
         pinMode(3, OUTPUT);

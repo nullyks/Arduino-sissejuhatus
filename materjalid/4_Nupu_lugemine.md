@@ -15,6 +15,9 @@ Selle ülesande saab jagada alamülesanneteks, milleks on:
 Nupul on kaks poolt, mis ei ole omavahel ühendatud, kui nuppu ei vajutata. Kui nuppu vajutatakse, siis sellel ajal on pooled ühendatud ja nende vahel saab liikuda elektrivool.
 Kasutame ära Arduino UNO võimekust määrata digitaalse viigu (valime viigu 3) režiimiks INPUT_PULLUP. See tähendab, et viik ei ole mitte ainult sisend (mille väärtust me loeme), vaid et vaikimisi olekus on sellele langev pinge 5V (ühendattud Arduino siseselt läbi takisti). 
 Ühendame viigu 3 nupu ühe poolega ja nupu teise poole ühendame GND viiguga. Kui nuppu vajutatakse, siis ühendab see viigud 3 ja GND (0V). Selle tulemusena muutub viigule 3 langev pinge 0V peale.
+
+![image](./meedia/ühendus_nupp.png)
+
 ## Nupuvajutuse tuvastamine
 Kui me loeme viigu 3 väärtust funktsiooniga digitalRead() sel ajal kui nuppu ei ole vajutatud, saame tulemuseks HIGH (5V). Aga kui loeme sel ajal kui nuppu vajutatakse saame tulemuseks LOW (0V). 
 Seega kui me loeme piisavalt sagedasti viigu 3 väärtust, siis saame tuvastada kui see on 0V. Arduino programmi kohustuslik funktsioon loop() täidab kõiki selles olevaid käske n.ö. ringiratast - kui loop() lõppu jõuab algab ta lihtsalt otsast peale. 

@@ -19,7 +19,7 @@ Materjali edukalt läbinud õppija oskab:
 *   1 x personaalarvuti (sobib nii Windows, Linux kui macOS operatsioonisüsteem)
 *   1 x Arduino UNO arendusplaat koos sobiva USB kaabliga
 *   4 x LED (soovitavalt erivärvilised)
-*   4 x takisti (100 Ohm)
+*   4 x takisti (220 Ohm)
 *   1 x makettplaat
 *   1 x nupp (makettplaadiga ühilduv)
 *   makettplaadi juhtmed (isane-isane)
@@ -30,7 +30,7 @@ Materjali edukalt läbinud õppija oskab:
 *   [Arduino arendusplaadi ühendamine arvutiga ja programmi laadimine arendusplaadile](https://github.com/nullyks/Arduino-sissejuhatus/blob/main/materjalid/2_Ühendamine_ja_üleslaadimine.md)
 *   [Arduino  UNO arendusplaadi tähtsamad viigud](https://github.com/nullyks/Arduino-sissejuhatus/blob/main/materjalid/3_Arduino_UNO_viigud.md)
 *   [Nupu lugemine](https://github.com/nullyks/Arduino-sissejuhatus/blob/main/materjalid/4_Nupu_lugemine.md)
-*   LED-i juhtimine
+*   [LED-i juhtimine](https://github.com/nullyks/Arduino-sissejuhatus/blob/main/materjalid/5_LED_juhtimine.md)
 *   Iseseisvad ülesanded
 
 ## Õppematerjali koostajad
