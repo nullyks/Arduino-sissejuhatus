@@ -3,6 +3,7 @@
 ![image](./meedia/UNO_viigud.png)
 (Allikas: https://docs.arduino.cc/resources/pinouts/ABX00087-full-pinout.pdf)
 
+Selleks, et Arduino arendusplaat saaks ümbritsevast keskkonnast informatsiooni koguda ja seda keskkonda kuidagi mõjutada, tuleb sellega ühendada andurid ja aktuaatorid. Need sisend- ja väljundseadmed suhtlevad arendusplaadiga viikude kaudu.
 Arduino arendusplaatidel on palju erineva otstarbega ühendusviike ja see võib esialgu tunduda segadusttekitav. Alustamiseks piisab aga vaid mõnede viikude otstarbe tundmisest. 
 
 Olulisemad viigud on:
@@ -49,3 +50,8 @@ Olulisemad viigud on:
         analogWrite(3, 127);
     }
     ~~~
+
+## Lisamaterjalid
+[Arduino UNO R4 andmeleht](https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf) - R4 on Arduino UNO uusim versioon, millel on mitmeid uuendusi. Märka kasvõi erinevusi digitaalsete viikude kasutamisel toiteallikana.
+
+[Arduino UNO R3 andmeleht](https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf) - R4 on Arduino UNO uusim versioon, kuid väga palju on kasutuses ka R3 versioonile vastavaid arendusplaate. Siis on selle versiooni andmeleht.
