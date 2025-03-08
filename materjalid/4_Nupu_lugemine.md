@@ -16,7 +16,7 @@ Nupul on kaks poolt, mis ei ole omavahel ühendatud, kui nuppu ei vajutata. Kui 
 Kasutame ära Arduino UNO võimekust määrata digitaalse viigu (valime viigu 3) režiimiks INPUT_PULLUP. See tähendab, et viik ei ole mitte ainult sisend (mille väärtust me loeme), vaid et vaikimisi olekus on sellele langev pinge 5V (ühendattud Arduino siseselt läbi takisti). 
 Ühendame viigu 3 nupu ühe poolega ja nupu teise poole ühendame GND viiguga. Kui nuppu vajutatakse, siis ühendab see viigud 3 ja GND (0V). Selle tulemusena muutub viigule 3 langev pinge 0V peale.
 
-![image](./meedia/ühendus_nupp.png)
+![Nupu ühendamise näide](./meedia/ühendus_nupp.png)
 
 ## Nupuvajutuse tuvastamine
 Kui me loeme viigu 3 väärtust funktsiooniga digitalRead() sel ajal kui nuppu ei ole vajutatud, saame tulemuseks HIGH (5V). Aga kui loeme sel ajal kui nuppu vajutatakse saame tulemuseks LOW (0V). 
@@ -77,7 +77,7 @@ Jadapordi ühenduse kasutamiseks peame deklareerima setup() funktsiooni sees üh
 
 Arvuti poole peal oskab jadapordiühendust lugeda Arduino IDE tarkvara. Vastav paneel avaneb kui vajutada "Serial monitor" ikooni. Oluline on, et nii lugev kui saatev seade kasutaksid sama ühenduskiirust - baud rate.
 
-![image](./meedia/IDE_serial.png)
+![Arduino IDE - Serial Monitor](./meedia/IDE_serial.png)
 
 ## Lisamaterjalid
 [Nupp pull-down takistiga ja olekumuutujaga](https://docs.arduino.cc/built-in-examples/digital/Button/) - meie näites lugesime nupuvajutust kui viigu pinge muutus 5V -> 0V. Aga saab ka vastupidi. Samuti kasutatakse selles näites nupu oleku määramiseks muutuajat, mis mõnikord on ka kasulik lahendus.

@@ -16,7 +16,7 @@ Kui dioodi läbib piisava pingega vool, siis muutub dioodi enda siseminetakistus
 
 Kuna meie eesmärk on LED-i kontrollida, siis peame valima voouallikaks sellise viigu, mida saame oma programmis mõjutada. Selleks sobib väga hästi digitaalviik 3, mis on muuhulgas ka PWM võimekusega. Et vooahel töötaks tuleb selle teine ots ühendada GND viiguga.
 
-![image](./meedia/ühendus_LED.png)
+![LEDi ühendamise näide](./meedia/ühendus_LED.png)
 
 ## LED-i vilgutamine
 Kuna oleme vooluallikaks valinud viigu 3, siis tuleb see deklareerida väljundviiguna - OUTPUT. Selleks kasutame funktsiooni pinMode(). 

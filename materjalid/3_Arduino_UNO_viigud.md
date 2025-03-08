@@ -1,6 +1,6 @@
 # Arduino UNO R4 arendusplaadi viigud
 
-![image](./meedia/UNO_viigud.png)
+![Arduino UNO - viikude asetus](./meedia/UNO_viigud.png)
 (Allikas: https://docs.arduino.cc/resources/pinouts/ABX00087-full-pinout.pdf)
 
 Selleks, et Arduino arendusplaat saaks ümbritsevast keskkonnast informatsiooni koguda ja seda keskkonda kuidagi mõjutada, tuleb sellega ühendada andurid ja aktuaatorid. Need sisend- ja väljundseadmed suhtlevad arendusplaadiga viikude kaudu.
