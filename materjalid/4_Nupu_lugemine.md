@@ -1,6 +1,6 @@
 # Nupuvajutuse lugemine Arduino Uno arendusplaadiga
 
-Seame endale eesmärgiks lugeda kokku mitu korda on kasutaja vajutanud Arduino Uno arendusplaadiga ühendatud nuppu ning kuvada tulemust üle jadapordi ühenduse.
+Seame endale eesmärgiks lugeda kokku mitu korda on kasutaja vajutanud Arduino Uno arendusplaadiga ühendatud nuppu ning kuvada tulemust üle jadapordi ühenduse arendusplaadiga ühendatud arvutisse teksti kujul. **NB!** Arduino IDE tarkvara oskab üle jadapordi andmeid vahetada. 
 
 Selle ülesande saab jagada alamülesanneteks, milleks on:
 
