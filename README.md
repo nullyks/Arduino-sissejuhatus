@@ -2,7 +2,9 @@
 
 See õppematerjal kajastab Arduino arendsuplaadi kasutuselevõtmist. Materjalis selgitatakse, kuidas paigaldada ja seadistada vajalik tarkvara, ühendada arendusplaat arvutiga ning laadida arendusplaadile oma programm.
 
-Samuti annab materjal kiire ülevaate Arduino arendusplaadi viikudest ning nende kasutamisest. Materjalis demonstreeritakse nupuvajutuse lugemist ja LED-i sisse ja välja lülitamist. 
+Samuti annab materjal kiire ülevaate Arduino arendusplaadi viikudest ning nende kasutamisest. Materjalis demonstreeritakse nupuvajutuse lugemist ja LED-i sisse ja välja lülitamist.
+## Õpieesmärgid
+Peale selle õppematerjali läbimist oskad paigaldada ja seadistada Arduino arendusplaatide kasutamiseks vajaliku tarkvara. Saad teada, kuidas arendusplaat arvutiga ühendada ja laadida sellele enda kirjutatud programm. Oskad teha vahet olulisematel Arduino arendusplaadi ühendusviikudel ja lugeda nende kaudu nupuvajutust ning juhtida LED-i.  
 
 ## Õpiväljundid
 
