@@ -2,7 +2,7 @@
 
 Aitäh huvi eest! Oleme avatud panustamisele, et üheskoos luua paremaid ja ajakohasemaid õppematerjale.
 
-Pikema selgituse õppematerjalide loomise kohta GitHubis [leiab vastavasisulisest repositooriumist](https://github.com/nullyks/6ppevara-loomine-GitHubis)
+Pikema selgituse õppematerjalide loomise kohta GitHubis [leiab vastavasisulisest repositooriumist](https://github.com/nullyks/6ppevara-loomine-GitHubis).
 
 Siin failis on toodud juhised ja head tavad, mis aitavad tagada koostöö sujuvuse.
 
@@ -22,11 +22,11 @@ Siin failis on toodud juhised ja head tavad, mis aitavad tagada koostöö sujuvu
 
 ## 📂 Struktuur ja formaadid
 
-- Kõik failid on Markdown-formaadis (`.md`)
-- Visuaalid on soovitavalt SVG, PNG või JPG formaadis
-- õppematerjalid paiknevad eraldi kaustas `/materjalid`
+- Kõik failid on Markdowni vormingus (`.md`)
+- Visuaalid on soovitatavalt SVG-, PNG- või JPG-vormingus
+- Õppematerjalid paiknevad eraldi kaustas `/materjalid`
 - Meediafailid paiknevad eraldi kaustas `/materjalid/meedia`
-- Kasutame ühtset stiili – vt juhendit [stiilijuhend](https://github.com/nullyks/6ppevara-loomine-GitHubis/blob/main/materjalid/9_Uldine_stiilijuhend_ja_t%C3%B6%C3%B6vahendid.md)
+- Kasutame ühtset stiili – vt [stiilijuhendit](https://github.com/nullyks/6ppevara-loomine-GitHubis/blob/main/materjalid/9_Uldine_stiilijuhend_ja_t%C3%B6%C3%B6vahendid.md)
 
 
 ---
@@ -34,21 +34,21 @@ Siin failis on toodud juhised ja head tavad, mis aitavad tagada koostöö sujuvu
 ## 💡 Kuidas panustada?
 
 1. **Fork’i** see repositoorium oma GitHubi kontole.
-2. **Loo uus haru** (branch) muudatuste jaoks. Ära tee muudatusi otse `main` harule.
+2. **Loo uus haru** (branch) muudatuste jaoks. Ära tee muudatusi otse `main`-harusse.
 3. **Tee muudatused** – täienda, paranda või lisa sisu.
 4. **Loo _pull request_** koos lühikese kirjeldusega, mida tegid ja miks.
 5. **Oota ülevaatust** – vaatame muudatused üle ja anname tagasisidet või ühendame need.
 
-Kui ülaltoodu tundub liiga keeruline, siis väiksemale probleemile lahenduse soovitamisel piisab ka vastavasisulise *issue* loomisest. 
+Kui ülaltoodu tundub liiga keeruline, siis väiksemale probleemile lahenduse soovitamisel piisab ka vastavasisulise *issue* loomisest.
 
 ---
 
 ## 📎 Soovitused hea panuse tegemiseks
 
-- Kirjuta selgelt ja arusaadavalt, sobivas keeles (Eesti/inglise – vt materjali põhikeelt)
+- Kirjuta selgelt ja arusaadavalt, sobivas keeles (eesti või inglise – vt materjali põhikeelt)
 - Lisa viited, kui kasutad allikaid
 - Säilita ühtne formaat ja stiil
-- Märgi vajadusel TODO või FIXME kohad kommentaarina
+- Märgi vajadusel TODO- või FIXME-kohad kommentaarina
 - Küsi julgesti – tee _issue_ või kirjuta arutelusse (_discussion_, _pull request_ jne)
 
 ---
@@ -61,7 +61,7 @@ Eeldame kõigilt austavat ja kaasavat suhtlust. Meie kogukonnas ei ole kohta dis
 
 ## 📝 Litsents
 
-Materjal on avaldatud [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.et) litsentsi alusel. Oma panusega nõustud, et sinu muudatused on selle litsentsi all jagatavad.
+Materjal on avaldatud [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.et) litsentsi alusel. Oma panusega nõustud, et sinu muudatused on selle litsentsi all jagatavad.
 
 ---
 

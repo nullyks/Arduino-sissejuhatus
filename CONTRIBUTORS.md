@@ -13,8 +13,8 @@ Alljärgnev nimekiri sisaldab inimesi, kes on:
 
 ## Kaastöötajate nimekiri
 
-| Nimi | Roll | Kontakt / GitHub/ e-mail|
+| Nimi | Roll | Kontakt / GitHub / e-post |
 |------|------|:-----------------:|
-| Andrus Rinde | Kaastöö tegija | [@andrusrinde](https://github.com/andrusrinde)  |
+| Andrus Rinde | Kaastöötegija | [@andrusrinde](https://github.com/andrusrinde)  |
 
 Tahad liituda? Vaata faili [CONTRIBUTING.md](./CONTRIBUTING.md).
